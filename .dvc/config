@@ -1,0 +1,4 @@
+[core]
+    remote = myremote3
+['remote "myremote3"']
+    url = C:/Users/mishra/Documents/HP/DVC/dvc_remote_storage3
